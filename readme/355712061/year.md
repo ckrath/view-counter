@@ -1,7 +1,7 @@
 ## [🔙 view-counter](https://github.com/ckrath/view-counter)
 
-### :octocat: [view-counter](https://github.com/ckrath/view-counter)
-![Image of view-counter](https://github.com/ckrath/view-counter/blob/master/graph/418262112/large/year.png)
+### :octocat: [dlms_reading_lotus](https://github.com/ckrath/dlms_reading_lotus)
+![Image of view-counter](https://github.com/ckrath/view-counter/blob/master/graph/355712061/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2021/10/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>26</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/10/18 5:02 AM UTC</i></small>
+<small><i>Last updated on 2021/10/18 5:03 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of view-counter](https://github.com/ckrath/view-counter/blob/master/svg/418262112/badge.svg)](https://github.com/ckrath/view-counter/blob/master/readme/418262112/week.md)
+[![Image of view-counter](https://github.com/ckrath/view-counter/blob/master/svg/355712061/badge.svg)](https://github.com/ckrath/view-counter/blob/master/readme/355712061/week.md)
 ```readme
-[![Image of view-counter](https://github.com/ckrath/view-counter/blob/master/svg/418262112/badge.svg)](https://github.com/ckrath/view-counter/blob/master/readme/418262112/week.md)
+[![Image of view-counter](https://github.com/ckrath/view-counter/blob/master/svg/355712061/badge.svg)](https://github.com/ckrath/view-counter/blob/master/readme/355712061/week.md)
 ```
 ### Header
-# view-counter [<img alt="Image of view-counter" src="https://github.com/ckrath/view-counter/blob/master/graph/418262112/small/year.png" height="20">](https://github.com/ckrath/view-counter/blob/master/readme/418262112/year.md)
+# dlms_reading_lotus [<img alt="Image of view-counter" src="https://github.com/ckrath/view-counter/blob/master/graph/355712061/small/year.png" height="20">](https://github.com/ckrath/view-counter/blob/master/readme/355712061/year.md)
 ```readme
-# view-counter [<img alt="Image of view-counter" src="https://github.com/ckrath/view-counter/blob/master/graph/418262112/small/year.png" height="20">](https://github.com/ckrath/view-counter/blob/master/readme/418262112/year.md)
+# dlms_reading_lotus [<img alt="Image of view-counter" src="https://github.com/ckrath/view-counter/blob/master/graph/355712061/small/year.png" height="20">](https://github.com/ckrath/view-counter/blob/master/readme/355712061/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
