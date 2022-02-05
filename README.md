@@ -21,6 +21,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/ckrath/view-counter/tree/master/readme/418262112/year.md">
+				view-counter
+			</a>
+		</td>
+		<td>
+			2022/2/3 12:37 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/ckrath/view-counter/raw/master/graph/418262112/small/year.png" height="20"> 48
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/ckrath/view-counter/tree/master/readme/370225041/year.md">
 				ckrath
 			</a>
@@ -117,7 +133,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/2/5 12:13 PM UTC</i></small>
+<small><i>Last updated on 2022/2/5 6:10 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
