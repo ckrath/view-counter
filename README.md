@@ -53,6 +53,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/ckrath/view-counter/tree/master/readme/355712061/year.md">
+				dlms_reading_lotus
+			</a>
+		</td>
+		<td>
+			2022/3/3 12:49 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/ckrath/view-counter/raw/master/graph/355712061/small/year.png" height="20"> 16
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/ckrath/view-counter/tree/master/readme/386867214/year.md">
 				LoopX-Backend
 			</a>
@@ -117,7 +133,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/5 12:50 AM UTC</i></small>
+<small><i>Last updated on 2022/3/5 6:14 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
